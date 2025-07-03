@@ -8,4 +8,4 @@ Once you have the flag, proceed to the next level using these credentials:
 
 - **Username:** natas1  
 - **URL:** [http://natas1.natas.labs.overthewire.org](http://natas1.natas.labs.overthewire.org)  
-- **Password:** (the flag you just found)
+- **Password:** (The flag you just found.)
