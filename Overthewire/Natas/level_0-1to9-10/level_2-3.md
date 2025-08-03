@@ -6,6 +6,6 @@ Once you have the flag, proceed to the next level with these credentials:
 
 - **Username:** natas3  
 - **URL:** [http://natas3.natas.labs.overthewire.org/](http://natas3.natas.labs.overthewire.org/)  
-- **Password:** (the flag you just found)
+- **Password:** (The flag you just found)
 
 ![level_2-3](../images/level_2-3.png)
